@@ -10,6 +10,7 @@ BinPackArguments: false
 AllowAllParametersOfDeclarationOnNextLine: false
 PointerAlignment: Left
 
+SortIncludes: false
 
 AccessModifierOffset: -2
 AlignAfterOpenBracket: Align
@@ -189,7 +190,6 @@ RequiresExpressionIndentation: OuterScope
 SeparateDefinitionBlocks: Leave
 ShortNamespaceLines: 1
 SkipMacroDefinitionBody: false
-SortIncludes: CaseSensitive
 SortUsingDeclarations: LexicographicNumeric
 SpaceAfterCStyleCast: false
 SpaceAfterLogicalNot: false
